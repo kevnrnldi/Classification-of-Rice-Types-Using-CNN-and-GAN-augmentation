@@ -32,7 +32,7 @@ Before running the project, you need to install the following dependencies:
 
 To install all the dependencies, simply run:
 
-```bash
+bash
 pip install -r requirements.txt
 
 ## Dataset
@@ -66,7 +66,8 @@ Once the training is complete, the model will be evaluated on the test dataset, 
 
 Result :
 
-<img width="785" height="624" alt="image" src="https://github.com/user-attachments/assets/fdb2fec4-32a3-459e-a6c5-286d629d2203" />
+
+![Diagram CNN](https://github.com/user-attachments/assets/a8e0848d-1335-44cb-aaa3-cd7ad8c2ca02)
 
 
 
