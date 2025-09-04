@@ -66,17 +66,7 @@ Once the training is complete, the model will be evaluated on the test dataset, 
 
 Result :
 
-
-
-
-
-
-
-
-
-
-
-
+<img width="785" height="624" alt="image" src="https://github.com/user-attachments/assets/fdb2fec4-32a3-459e-a6c5-286d629d2203" />
 
 
 
