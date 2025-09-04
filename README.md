@@ -10,9 +10,9 @@ DATASET LINK : https://www.kaggle.com/datasets/muratkokludataset/rice-image-data
 2. [Prerequisites](#prerequisites)
 3. [Dataset](#dataset)
 4. [How to Run the Project](#how-to-run-the-project)
-5. [Directory Structure](#directory-structure)
+5. [Results](#results)
 6. [Results](#results)
-7. [License](#license)
+7. [License](#penjelasan)
 
 ## Introduction
 
@@ -64,7 +64,7 @@ To train the model and generate synthetic images using GANs, follow these steps:
         5.Evaluate the Model
         Once the training is complete, the model will be evaluated on the test dataset, and performance metrics such as accuracy, precision, recall, and F1-score will be displayed. Additionally, a confusion matrix will be generated to visualize classification results.
 
-Result :
+## Result :
 
 
 ![Diagram CNN](https://github.com/user-attachments/assets/a8e0848d-1335-44cb-aaa3-cd7ad8c2ca02)
