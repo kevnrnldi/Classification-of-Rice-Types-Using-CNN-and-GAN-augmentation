@@ -77,4 +77,3 @@ Result :
   
 - **README.md**: File ini memberikan gambaran umum proyek, cara menjalankan proyek, dan struktur direktori. Ini juga menjelaskan tujuan proyek, cara melatih model, dan cara mengevaluasi hasil.
 
-Jika ada yang perlu ditambahkan atau disesuaikan lebih lanjut, beri tahu saya!
