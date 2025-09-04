@@ -1,0 +1,10 @@
+tensorflow==2.14.0
+numpy==1.24.0
+opencv-python==4.7.0.72
+scikit-learn==1.1.2
+matplotlib==3.6.3
+seaborn==0.11.2
+scipy==1.9.3
+pillow==9.3.0
+tqdm==4.64.1
+imutils==0.5.4
